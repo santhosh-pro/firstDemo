@@ -1,0 +1,11 @@
+{
+    "files.exclude": {
+        "**/.vscode": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/Properties": true
+    },
+    "cSpell.words": [
+        "Microservice"
+    ]
+}
